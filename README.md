@@ -71,3 +71,21 @@ Both datasets were merged to increase the linguistic coverage and training corpu
 ---
 
 
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/seuusuario/pt-variant-classification.git
+   cd pt-variant-classification
+   
+2. Install dependencies:
+
+  pip install -r requirements.txt
+
+3. Open the notebook:
+
+   notebooks/NLP.ipynb
+
+
