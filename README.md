@@ -84,8 +84,8 @@ Both datasets were merged to increase the linguistic coverage and training corpu
   ```bash
   pip install -r requirements.txt
 
-3. Open the notebook:
 
+3. Open the notebook:
   ```bash
   notebooks/NLP.ipynb
 
