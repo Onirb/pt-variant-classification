@@ -81,11 +81,12 @@ Both datasets were merged to increase the linguistic coverage and training corpu
    cd pt-variant-classification
    
 2. Install dependencies:
-
+  ```bash
   pip install -r requirements.txt
 
 3. Open the notebook:
 
-   notebooks/NLP.ipynb
+  ```bash
+  notebooks/NLP.ipynb
 
 
