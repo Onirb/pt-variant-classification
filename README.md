@@ -79,14 +79,14 @@ Both datasets were merged to increase the linguistic coverage and training corpu
    ```bash
    git clone https://github.com/seuusuario/pt-variant-classification.git
    cd pt-variant-classification
-   
+   ```
 2. Install dependencies:
   ```bash
   pip install -r requirements.txt
-
+  ```
 
 3. Open the notebook:
   ```bash
   notebooks/NLP.ipynb
-
+  ```
 
