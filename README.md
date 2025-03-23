@@ -54,9 +54,16 @@ Both datasets were merged to increase the linguistic coverage and training corpu
 
 ## 📊 Results
 
-- Best model: CNN with tuning  
-- **F1 Score (best model):** 0.93879  
-- Evaluation focused on generalization and class imbalance
+The project aimed to classify text between Brazilian Portuguese (pt-BR) and European Portuguese (pt-PT) using deep learning models. Two architectures were evaluated: **LSTM** and **CNN**.
+
+- **Main evaluation metric:** F1 Score (due to class imbalance)
+- **Best result:** CNN with **F1 Score = 0.95**
+- **LSTM result:** F1 Score = 0.90
+
+### 🔹 F1 Score Comparison
+
+![F1 Score Comparison](results/f1_score_comparison.png)
+
 
 ---
 
