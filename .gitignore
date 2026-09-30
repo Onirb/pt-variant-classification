@@ -1,0 +1,42 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Ambientes e caches locais
+.venv/
+venv/
+env/
+.hf_cache/
+runs/
+data/external/
+data/track_b/
+
+# Artefatos gerados localmente
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.csv
+
+# Configurações da máquina
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Credentials and machine-local configuration
+.env
+.env.*
+!.env.example
+.secrets/
+.aws/
+credentials*.json
+*.pem
+*.key
+
+# Newly generated models/data are not published; tracked legacy remains intact.
+*.safetensors
+*.onnx
+*.joblib
+*.parquet
+*.zip

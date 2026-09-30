@@ -1,8 +1,6 @@
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-torch
-transformers
-notebook
+# Reprodução e linha de base tabular/textual
+numpy==2.5.3
+pandas==3.0.6
+scikit-learn==1.9.1
+datasets==5.0.1
+tqdm==4.70.1

@@ -1,0 +1,7 @@
+# Preserve o PyTorch com CUDA já fornecido pelo Colab.
+transformers==4.57.1
+accelerate==1.11.0
+safetensors==0.6.2
+pandas==3.0.6
+pyarrow==21.0.0
+scikit-learn==1.9.1

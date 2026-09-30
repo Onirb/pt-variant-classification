@@ -1,0 +1,8 @@
+# Testes, inferência e medição local do Track B; sem downloads de modelo.
+-r requirements.txt
+-r requirements-transformers-cpu.txt
+# Keep PyPI for general dependencies and use the official CPU wheel index for Torch.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.0+cpu
+accelerate==1.11.0
+psutil==7.2.2
